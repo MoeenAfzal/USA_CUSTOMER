@@ -1,0 +1,453 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body {
+    /* margin: 0; */
+    font-family: Arial;
+    
+
+    
+    
+    
+}
+@media (max-width: 768px){
+    .top{
+        max-height: 800px;
+        /* text-align: center; */
+        
+    }
+}
+.top{
+    
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+    cursor: pointer;
+
+    
+}
+
+.link-title{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+.link-title a {
+    color: rgb(57, 140, 179);
+    font-family: bbvs;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40px;
+    text-transform: none;
+    text-decoration: none;
+
+       
+
+
+}
+.two_text{
+    text-align: center;
+    color: rgb(82, 80, 80);
+}
+.first{
+    max-width:640px;
+    max-height: 356px;
+    margin: 0 auto;}
+.post_first{
+    padding-bottom: 55.63%;
+    position: relative;
+    height: 0;
+}
+.second{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+}
+.post_second{
+    padding-bottom: 56.25%;
+     position: relative; 
+     height: 0;
+}
+.third{
+    max-width: 560px;
+    max-height: 315px;
+    margin: 0 auto;
+}
+.post_third{
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+.fourth{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_fourth{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.fifth{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_fifth{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.sixth{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_sixth{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.seven{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_seven{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.eight{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_eight{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.nine{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_nine{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.ten{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_ten{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.eleven{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_eleven{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.tweleve{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_tweleve{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.thirteen{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_thirteen{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+.fourteen{
+    max-width: 560px; 
+    max-height: 315px;
+     margin: 0 auto;
+
+}
+.post_fourteen{
+    padding-bottom: 56.25%;
+     position: relative;
+      height: 0;
+}
+
+
+
+.row{
+    text-align: center;
+ }
+ .first{
+    
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+    
+    
+    
+    
+  }
+ .second{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+    
+  }
+ .third{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+    
+    
+  }
+ .fourth{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+ 
+ 
+    
+  }
+ .fifth{
+    width: 100%;
+    height: 100%;
+    margin-top: 2em;
+      
+  }
+  .sixth{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+    
+  }
+  .seven{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .eight{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+    
+  }
+  .nine{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .ten{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .eleven{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .tweleve{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .thirteen{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .fourteen{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  
+  @media (max-width: 800px){
+     .first  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .second  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .third  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .fourth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .fifth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .sixth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .seven  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .eigth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .nine  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .ten  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .eleven  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .tweleve  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .thirteen  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+     .fourteen  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+    .back_to_top{
+        text-decoration: none;
+        color: black;
+        cursor: pointer;
+        margin-top: 80px;
+    }
+  
+ul{
+    overflow:hidden;
+    text-align: center;
+    
+    
+    }
+    li{
+    display:inline;
+    
+    
+    
+    }
+    .footer  ul li a img {
+        margin-top: 60px;
+        margin-bottom: 10px;
+        margin-left: 30px;
+        width: 40px;
+        height: 35px;
+        
+    }
+    ul li .text{
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+}

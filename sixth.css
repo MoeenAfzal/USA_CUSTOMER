@@ -1,0 +1,452 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body {
+    /* margin: 0; */
+    font-family: Arial;
+    
+
+    
+    
+    
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+@media (max-width: 768px){
+    .top{
+        max-height: 800px;
+        /* text-align: center; */
+        
+    }
+}
+.back_to_top{
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  margin-top: 80px;
+}
+.top{
+    
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+    cursor: pointer;
+    
+
+    
+}
+
+.link-title{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+.link-title a {
+    color: rgb(57, 140, 179);
+    font-family: bbvs;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40px;
+    text-transform: none;
+    text-decoration: none;
+
+       
+
+
+}
+.two_text{
+    text-align: center;
+    color: rgb(82, 80, 80);
+}
+.row{
+    text-align: center;
+ }
+ .first{
+    
+    width: 66%;
+    height: auto;
+    margin-top: 2em;
+    
+    
+    
+    
+  }
+ .second{
+    width: 76%;
+    height: auto;
+    margin-top: 2em;
+    
+  }
+ .third{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+    
+    
+  }
+ .fourth{
+    width: 78%;
+    height: auto;
+    margin-top: 2em;
+ 
+ 
+    
+  }
+ .fifth{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+      
+  }
+  .sixth{
+    width: 81%;
+    height: auto;
+    margin-top: 2em;
+    
+  }
+  .seventh{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .eigth{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+    
+  }
+  .nine{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .ten{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .eleven{
+    width: 65%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .twelve{
+    width: 55%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .thirteen{
+    width: 75%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .fourteen{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .fifteen{
+    width: 65%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .sixteen{
+    width: 65%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .zero{
+    width: 65%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .seventeen{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .eighteen{
+    width: 100%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .nineteen{
+    width: 45%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .twenty{
+    width: 85%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .twentyone{
+    width: 85%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .twentytwo{
+    width: 85%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .twentythree{
+    width: 65%;
+    height: auto;
+    margin-top: 2em;
+  }
+ 
+  @media (max-width: 800px){
+    .row .first  {
+        
+        width: 80%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .second  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .third  {
+        
+        width: 100%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .fourth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .fifth  {
+        
+        width: 100%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .sixth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .seventh  {
+        
+        width: 100%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .eigth  {
+        
+        width: 100%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .nine  {
+        
+        width: 100%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .ten  {
+        
+        width: 100%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .eleven {
+        
+        width: 75%;
+        max-height: 800px;
+        margin-top: 5em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .twelve  {
+        
+        width: 55%;
+        max-height: 800px;
+        margin-top: 2em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .thirteen  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .fourteen  {
+        
+        width: 100%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .fifteen  {
+        
+        width: 75%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .sixteen  {
+        
+        width: 75%;
+        max-height: 800px;
+        margin-top: 2em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .zero  {
+        
+        width: 75%;
+        max-height: 800px;
+        margin-top: 2em;
+        margin-bottom: 2em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .seventeen  {
+        
+        width: 100%;
+        max-height: 800px;
+        margin-top: 2em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .eighteen  {
+        
+        width: 100%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .nineteen  {
+        
+        width: 70%;
+        max-height: 800px;
+        margin-top: 6em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .twenty  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .twentyone  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .twentytwo  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .twentythree  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        margin-bottom: 2em;
+        
+        
+    }}
+
+
+ 
+
+
+
+ul{
+    overflow:hidden;
+    text-align: center;
+    
+    
+    }
+    li{
+    display:inline;
+    
+    
+    
+    }
+    .footer  ul li a img {
+        margin-top: 60px;
+        margin-bottom: 10px;
+        margin-left: 30px;
+        width: 40px;
+        height: 35px;
+        
+    }
+    ul li .text{
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+}

@@ -1,0 +1,169 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    /* margin: 0; */
+    font-family: Arial;
+    
+
+    
+    
+    
+}
+@media (max-width: 768px){
+    .top{
+        max-height: 800px;
+        /* text-align: center; */
+        
+    }
+}
+.top{
+    
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+    cursor: pointer;
+    
+
+    
+}
+
+.link-title{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+.link-title a {
+    color: rgb(57, 140, 179);
+    font-family: bbvs;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40px;
+    text-transform: none;
+    text-decoration: none;
+
+       
+
+
+}
+
+.row   {
+    display: -ms-flexbox;
+    /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap;
+    /* IE10 */
+    flex-wrap: wrap;
+    padding: 0 4px;
+    justify-content: center;
+    cursor: pointer;
+    
+    
+    
+    
+
+}
+
+/* Create four equal columns that sits next to each other */
+.row  img {
+    -ms-flex: 33.33%;
+    /* IE10 */
+    flex: 33.33%;
+    max-width: 33.33%;
+    padding: 0 4px;
+    
+    
+}
+
+.row  img {
+    margin-top: 40px;
+    vertical-align: middle;
+    width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+    .row  img {
+
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+        margin: 0;
+        padding: 0 5%;
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    
+    
+
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .row  img {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+        margin: 0;
+        padding: 0 5%;
+        width: 100%;
+        margin-top: 30px;
+}
+    }
+
+    
+    ul{
+        overflow:hidden;
+        text-align: center;
+        
+        
+        }
+        li{
+        display:inline;
+        
+        
+        
+        }
+        .footer  ul li a img {
+            margin-top: 60px;
+            margin-bottom: 40px;
+            margin-left: 30px;
+            width: 40px;
+            height: 35px;
+            
+        }
+        ul li .text{
+        width: 25%;
+        display: inline-block;
+        text-align: center;
+    }
+    @media screen and (max-width: 800px){
+    .footer{
+        width: 100%;
+    }
+}
+/*Floating Back-To-Top Button*/
+#myBtn {
+    background: rgba(190, 190, 190, 0.884);
+    color: rgb(10, 10, 10);
+    display: block;
+    bottom: 40px;
+    height: 60px;
+    width: 60px;
+    right: 40px;
+    position: fixed;
+    z-index: 3;
+    text-decoration: none;
+    height: 40px;
+    width: 40px;
+
+}
+/*On Hover Color Change*/
+#myBtn:hover {
+    background-color: #0b0c0c;
+    color: rgb(224, 223, 223);
+}

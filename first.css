@@ -1,0 +1,291 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body {
+    /* margin: 0; */
+    font-family: Arial;
+    
+
+    
+    
+    
+}
+@media (max-width: 768px){
+    .top{
+        max-height: 800px;
+        /* text-align: center; */
+        
+    }
+}
+.top{
+    
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+    cursor: pointer;
+    
+
+    
+}
+
+.link-title{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+.link-title a {
+    color: rgb(57, 140, 179);
+    font-family: bbvs;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40px;
+    text-transform: none;
+    text-decoration: none;
+
+       
+
+
+}
+.two_text{
+   text-align: center;
+   color: rgb(82, 80, 80);}
+.row{
+    text-align: center;
+}
+.first{
+    margin: auto;
+    width: 70%;
+    height: auto;
+    margin-top: 2em;
+    
+    
+    
+  }
+.second{
+    width: 76%;
+    height: auto;
+    margin-top: 2em;
+    
+  }
+.third{
+    width: 65%;
+    height: auto;
+    margin-top: 2em;
+    
+    
+  }
+.fourth{
+    width: 76%;
+    height: auto;
+    margin-top: 2em;
+
+
+    
+  }
+.fifth{
+    width: 52%;
+    height: auto;
+    margin-top: 2em;
+      
+  }
+  .sixth{
+    width: 77%;
+    height: auto;
+    margin-top: 2em;
+    
+  }
+  .seventh{
+    width: 48%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .eigth{
+    width: 60%;
+    height: auto;
+    margin-top: 2em;
+    
+  }
+  .nine{
+    width: 44%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .ten{
+    width: 59%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .eleven{
+    width: 54%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .twelve{
+    width: 67%;
+    height: auto;
+    margin-top: 2em;
+  }
+  .thirteen{
+    width: 35%;
+    height: auto;
+    margin-top: 2em;
+  }
+  @media (max-width: 800px){
+    .row .first  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .second  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .third  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .fourth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .fifth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .sixth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .seventh  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .eigth  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .nine  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .ten  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .eleven  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .twelve  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+  @media (max-width: 800px){
+    .row .thirteen  {
+        
+        width: 90%;
+        max-height: 800px;
+        margin-top: 1em;
+        
+        
+    }}
+    .back_to_top{
+      text-decoration: none;
+      color: black;
+      cursor: pointer;
+      margin-top: 80px;
+  }
+    ul{
+        overflow:hidden;
+        text-align: center;
+        
+        
+        }
+    li{
+        display:inline;
+        text-align: center;
+        text-transform: none;
+        
+        
+        
+        }
+        .footer  ul li a img {
+        margin-top: 60px;
+        margin-bottom: 10px;
+        margin-left: 3em;
+        width: 40px;
+        height: 35px;
+        text-align: center;
+        text-transform: none;
+        
+            
+        }
+        ul li .text{
+        width: 25%;
+        display: inline-block;
+        text-align: center;
+        text-align: center;
+        text-transform: none;
+    }
+    }
